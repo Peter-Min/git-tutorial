@@ -1,0 +1,18 @@
+data camp
+weekly data science update
+
+you didn't earn any XP this week, keep learning to see how you compare to other DataCamp learners
+
+
+
+
+
+3242018
+
+
+
+
+SHA256:f418529oT123msprc6PmnvFqzwqtRSDu9IamWUFD0yY 
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCvQcmKouyL/GfjQ3JiFnw7q2MdU9nAvX41OQlJMH5sEGZdLJy49BnWpqyUI9p+9c3yLXpFXWeXqi4wyd/i7uKG1i4cFwvvy2EPbdxi0jyRHONK2SN7lfiQVAhdaqM0ujDdwN9lwqI8KuJ/dcgARE1w9JpGXsGZgbH+a0ZqLs+CmdIq0dELwkVTSZheCa6wW8j3cDG+scW3B35rcT+HBsk4UW/JwX5e0PEJrFr5s+2JztaYGDO+4JmWmzWPomcUMEZQLewTg0kM2c9y6s8eSDE9taEFKT6l63AgAQ6VmPZX/ub56W0qPsIDXOZFppX4lxM7tavHD3zVXordhxq/UwRklJylJhApdWfYh2yRnrs3ZgrPJvxpC8uMon9R/aQEeVuVV7ls11zvoj/5N/7sWAbcEzSNo1iLgzdOvCx1bVf7v/V6beN0QBoJ0CyGZ9dFofYyLVPqz0HeT4LrmjQ581VpZ6RdqM0uKyjol/Vroa6uWfgdiv5PrVrYdrsgJ5F2y90= ltmbc94@gmail.com
